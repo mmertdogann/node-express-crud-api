@@ -4,4 +4,4 @@
 
 ## Introduction
 
-In this project, I will create a Node JS and Express JS CRUD REST API.
+In this project, I have created a Node JS and Express JS CRUD REST API.
